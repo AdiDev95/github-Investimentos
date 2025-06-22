@@ -20,22 +20,21 @@ O projeto foi desenvolvido como parte do Bootcamp da Dio, com foco em aprimorar 
 
 A planilha foi criada para ajudar investidores e interessados no mercado de FIIs a:
 - Organizar informações relevantes de forma clara e intuitiva.
-- Analisar indicadores importantes dos fundos, como rentabilidade, dividend yield, volatilidade, entre outros (os indicadores específicos podem ser customizados conforme as necessidades do usuário).
+- Analisar indicadores importantes dos fundos, como rentabilidade, rendimento de dividendos entre outros (os indicadores específicos podem ser customizados conforme as necessidades do usuário).
 - Facilitar a tomada de decisão baseada em dados, através de gráficos, tabelas e resumos estatísticos.
 
 ## Conteúdo da Planilha
 
 A planilha de fundos imobiliários contempla os seguintes elementos:
 
-- **Dados cadastrais dos FIIs:** Informações essenciais como nome, código do fundo, tipo e setor.
-- **Indicadores financeiros:** Rentabilidade, dividend yield, P/VP e outros índices que ajudam a medir o desempenho dos fundos.
+- **Dados cadastrais dos FIIs:** Informações essenciais como nome,tipo e setor.
+- **Indicadores financeiros:** Rentabilidade, rendimento de dividendos, P/VP e outros índices que ajudam a medir o desempenho dos fundos.
 - **Análise gráfica:** Visualizações que demonstram o comportamento dos fundos ao longo do tempo.
-- **Relatórios e resumos:** Seções que sintetizam os dados mais importantes para uma avaliação rápida dos FIIs.
 
 ## Ferramentas Utilizadas
 
 - **Microsoft Excel:** Para a criação e manipulação da planilha.
-- **Recursos do Bootcamp Dio:** Conteúdos e práticas que permitiram a aplicação dos conhecimentos adquiridos durante o curso.
+- **Recursos do Bootcamp Dio:** Conteúdos e práticas que permitiram a aplicação dos conhecimentos adquiridos durante o curso"Santander - Excel com Inteligência Artificial".
 - **Técnicas de Análise de Dados:** Aplicadas para a organização e interpretação das informações referentes aos Fundos de Investimento Imobiliário.
 
 ## Como Executar
@@ -48,13 +47,13 @@ Para visualizar e trabalhar com a planilha, siga os passos abaixo:
 
 ## Conclusão
 
-A realização deste projeto foi fundamental para colocar em prática os conhecimentos adquiridos durante o Bootcamp da Dio, principalmente na manipulação de dados e uso de ferramentas avançadas do Excel. A planilha serve como uma ferramenta eficaz para investidores que desejam monitorar e analisar os Fundos de Investimento Imobiliário, contribuindo para uma tomada de decisão mais informada e estratégica.
+A realização deste projeto foi fundamental para colocar em prática os conhecimentos adquiridos durante o curso, principalmente na manipulação de dados e uso de ferramentas avançadas do Excel. 
 
 ## Contato
 
 Caso tenha dúvidas ou queira discutir melhorias para o projeto, sinta-se à vontade para entrar em contato:
-- **Email:** seuemail@dominio.com
-- **LinkedIn:** [Seu Perfil](https://www.linkedin.com)
+- **Email:** adilsontidre80@gmail.com
+- **LinkedIn:** [@Adilson_tidre](https://www.linkedin.com/in/adilson-tidre-dos-santos-3a3a012b2)
 
 ---
 
