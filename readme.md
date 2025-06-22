@@ -5,6 +5,7 @@ Este repositório contém o trabalho desenvolvido durante o Bootcamp da Dio. O p
 ## Índice
 
 - [Contexto](#contexto)
+- - [Imagem do Projeto](#Imagens-do-Projeto)
 - [Descrição do Projeto](#descrição-do-projeto)
 - [Conteúdo da Planilha](#conteúdo-da-planilha)
 - [Ferramentas Utilizadas](#ferramentas-utilizadas)
@@ -15,6 +16,8 @@ Este repositório contém o trabalho desenvolvido durante o Bootcamp da Dio. O p
 ## Contexto
 
 O projeto foi desenvolvido como parte do Bootcamp da Dio, com foco em aprimorar habilidades relacionadas ao Excel e à análise de dados. Durante o curso, foram abordados conceitos de manipulação e visualização de dados, que foram aplicados na construção de uma planilha customizada para acompanhamento e análise dos Fundos de Investimento Imobiliário.
+
+## Imagens do Projeto
 
 ## Descrição do Projeto
 
