@@ -5,7 +5,7 @@ Este repositório contém o trabalho desenvolvido durante o Bootcamp da Dio. O p
 ## Índice
 
 - [Contexto](#contexto)
-- - [Imagem do Projeto](#Imagens-do-Projeto)
+- [Imagem do Projeto](#Imagens-do-Projeto)
 - [Descrição do Projeto](#descrição-do-projeto)
 - [Conteúdo da Planilha](#conteúdo-da-planilha)
 - [Ferramentas Utilizadas](#ferramentas-utilizadas)
